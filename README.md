@@ -1,4 +1,7 @@
-**BEFORE YOU USE!** Download the dataset zip file from https://www.kaggle.com/michelheusser/handwritten-digits-and-operators and unpack it in 'notebooks/data/dataset' directory. Create 'notebooks/data/test' and 'notebooks/data/train' directories. 
+**BEFORE YOU USE!**
+
+Download the dataset zip file from https://www.kaggle.com/michelheusser/handwritten-digits-and-operators and unpack it in 'notebooks/data/dataset' directory. Create 'notebooks/data/test' and 'notebooks/data/train' directories. 
+
 
 GENERAL INFO
 
